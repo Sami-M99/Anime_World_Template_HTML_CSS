@@ -1556,10 +1556,10 @@ a {
 
 @keyframes change-background {
     0%, 100% {
-        background-image: url(/images/discount_cover1.jpg);
+        background-image: url(images/discount_cover1.jpg);
     }
     50% {
-        background-image: url(/images/discount_cover2.png);
+        background-image: url(images/discount_cover2.png);
     }
 }
 
