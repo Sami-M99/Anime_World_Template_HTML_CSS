@@ -1470,7 +1470,7 @@ a {
     text-align: center;
     position: relative;
     padding-top: 60px;
-    animation: change-background 8s linear infinite;
+    animation: change-background 9s linear infinite;
     z-index: 1;
 }
 
@@ -1556,10 +1556,10 @@ a {
 
 @keyframes change-background {
     0%, 100% {
-        background-image: url(images/discount_cover1.jpg);
+        background-image: url("../images/discount_cover1.jpg");
     }
     50% {
-        background-image: url(images/discount_cover2.png);
+        background-image: url("../images/discount_cover2.png");
     }
 }
 
